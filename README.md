@@ -89,11 +89,17 @@
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaoljhy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
-
 <br/>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoljhy&hide_border=true&layout=compact" align="center" />  
 </div>  
+
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaoljhy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+
+<br/>
+
 <br/>  
 
