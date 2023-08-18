@@ -107,10 +107,12 @@
 
 <br/>
 
-
-<div align="center"><img src="./1.png" align="center" /></div>  
-<div align="center"><img src="./2.png" align="center" /></div> 
-<div align="center"><img src="./3.png" align="center" /></div>  
-<br/>
+Wechat：
+<div align="center"><img src="https://github.com/gaoljhy/gaoljhy/blob/main/1.png" align="center"  style="width:50%; height:50%;"/></div>  
+Paypal：
+<div align="center"><img src="https://github.com/gaoljhy/gaoljhy/blob/main/3.png" align="center" style="width:50%; height:50%;"/></div>  
+<div align="center"><i>https://www.paypal.com/paypalme/lemon666</i>
+</div>
+  <br/>
 
 
