@@ -111,4 +111,8 @@ Wechat：
 <div align="center"><img src="https://github.com/gaoljhy/gaoljhy/blob/main/1.png" align="center"  style="width:50%; height:50%;"/></div>  
   <br/>
 
+AliPay：
+<div align="center"><img src="https://github.com/gaoljhy/gaoljhy/blob/main/2.png" align="center"  style="width:50%; height:50%;"/></div>  
+  <br/>
+
 
