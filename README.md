@@ -112,7 +112,7 @@ Wechat：
   <br/>
 
 AliPay：
-<div align="center"><img src="https://github.com/gaoljhy/gaoljhy/blob/main/2.png" align="center"  style="width:50%; height:50%;"/></div>  
+<div align="center"><img src="https://github.com/gaoljhy/gaoljhy/blob/main/2.jpg" align="center"  style="width:50%; height:50%;"/></div>  
   <br/>
 
 
