@@ -107,12 +107,3 @@
 您的每一分捐献都是我进步的动力。
 <br/>
 
-Wechat：
-<div align="center"><img src="https://github.com/gaoljhy/gaoljhy/blob/main/1.png" align="center"  style="width:50%; height:50%;"/></div>  
-  <br/>
-
-AliPay：
-<div align="center"><img src="https://github.com/gaoljhy/gaoljhy/blob/main/2.jpg" align="center"  style="width:50%; height:50%;"/></div>  
-  <br/>
-
-
